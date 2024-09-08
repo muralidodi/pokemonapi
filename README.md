@@ -4,9 +4,9 @@
 This project is a Java Spring Boot application that provides a simple REST API to fetch and manage Pokemon data. The application interacts with the external Pokemon API (https://pokeapi.co) to retrieve Pokemon information and serves it via HTTP endpoints.  
 
 ## Endpoints  
-1. Get All Pokémon, URL: /api/pokemon  
+1. Get All Pokemon, URL: /api/pokemon  
 Method: GET  
-Description: Fetches a list of 50 Pokémon information for each Pokemon, including ID, name, and images. 
+Description: Fetches a list of 50 Pokemon information for each Pokemon, including ID, name, and images. 
 
 2. Get Pokemon by ID , URL: /api/pokemon/{id}  
 Method: GET  
